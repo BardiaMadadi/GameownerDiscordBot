@@ -1,0 +1,23 @@
+{
+  "name": "gameownerdiscordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BardiaMadadi/GameownerDiscordBot.git"
+  },
+  "author": "Bardia Madadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BardiaMadadi/GameownerDiscordBot/issues"
+  },
+  "homepage": "https://github.com/BardiaMadadi/GameownerDiscordBot#readme"
+}
